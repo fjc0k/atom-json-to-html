@@ -1,7 +1,7 @@
 {
   "name": "json-to-html",
   "main": "./lib/json-to-html",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "description": "An atom plugin, mainly for writing json or javascript object on table of markdown.",
   "keywords": [
     "json",
