@@ -13,7 +13,7 @@
   "activationCommands": {
     "atom-workspace": "json-to-html:toggle"
   },
-  "repository": "https://github.com/fjc0k/atom-json-to-html",
+  "repository": "git@github.com:fjc0k/atom-json-to-html.git",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
