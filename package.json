@@ -1,7 +1,7 @@
 {
   "name": "json-to-html",
   "main": "./lib/json-to-html",
-  "version": "0.2.3",
+  "version": "0.2.4",
   "description": "Mainly for writing json or javascript object on table of markdown.",
   "keywords": [
     "json",
