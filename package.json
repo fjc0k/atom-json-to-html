@@ -1,0 +1,33 @@
+{
+  "name": "json-to-html",
+  "main": "./lib/json-to-html",
+  "version": "0.0.0",
+  "description": "An atom plugin, mainly for writing json or javascript object on table of markdown.",
+  "keywords": [
+    "json",
+    "json5",
+    "html",
+    "markdown",
+    "table"
+  ],
+  "activationCommands": {
+    "atom-workspace": "json-to-html:toggle"
+  },
+  "repository": "https://github.com/fjc0k/atom-json-to-html",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "eslintConfig": {
+    "root": true,
+    "extends": "@fir-ui/fir"
+  },
+  "dependencies": {
+    "js-base64": "^2.4.3",
+    "json5": "^1.0.1"
+  },
+  "devDependencies": {
+    "@fir-ui/eslint-config-fir": "^0.0.6",
+    "eslint": "^4.19.1"
+  }
+}

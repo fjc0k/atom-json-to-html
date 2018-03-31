@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Transform selected JSON to HTML",
+        "command": "json-to-html:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "JSON to HTML",
+          "submenu": [
+            {
+              "label": "Transform selected JSON to HTML",
+              "command": "json-to-html:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
