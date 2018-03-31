@@ -1,6 +1,8 @@
 # json-to-html
 An atom plugin, mainly for writing json or javascript object on table of markdown.
 
+![demo](./demo/demo.gif)
+
 ## How to use ?
 1. Select the json text
 2. Right click
